@@ -1,26 +1,26 @@
 # HW # Template
-# The largest heading
-## The second heading
-### The smallest heading
+# The largest one!
+## huh?
+### smh
 
-**BOLD**
+**y am I bold?**
 
-_ltalic_
+_got nah idea my buddy_
 
-~~Strikethrough~~
+~~wut?~~
 
-***ALL bold and italic***
+***you r meme***
 
-Not quote
 
-> This line is quote
 
-Quoting code:
+> what is your best line?
+
 
 ```
-System.out.println("Hello World!");
+System.out.println("Hello World!, who's world?");
 ```
-fav color is `rgb(9, 105, 218)` .
+
+![image](https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top)
 
 Example URL using [Github page] (https://pages.github.com/)
 

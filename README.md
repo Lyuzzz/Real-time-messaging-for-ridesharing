@@ -9,7 +9,7 @@ _got nah idea my buddy_
 
 ~~wut?~~
 
-***you r meme***
+***you are a joke***
 
 
 
@@ -22,17 +22,17 @@ System.out.println("Hello World!, who's world?");
 
 ![image](https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top)
 
-Example URL using [Github page] (https://pages.github.com/)
+[based](https://i.kym-cdn.com/entries/icons/original/000/034/153/EQIQHJsXsAEJ4Yt.jpg)
 
 List:
 
--1
--2
--3
+- 1 :raising_hand:
+- 2 :raising_hand:
+- 3 :raising_hand:
 
-1. 1
-   _ 2
-     _ 3
+1. 1 :raising_hand:
+   - 2 :raising_hand:
+     - 3 :raising_hand:
 
 
 Task lists:

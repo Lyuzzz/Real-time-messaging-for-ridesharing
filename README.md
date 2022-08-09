@@ -48,4 +48,4 @@ Reference:
 
 test reference editing[^1].
 
-[^1] reference here
+[^1]: reference here

@@ -9,7 +9,7 @@ _ltalic_
 
 ~~Strikethrough~~
 
-***ALL bold and italic ***
+***ALL bold and italic***
 
 Not quote
 

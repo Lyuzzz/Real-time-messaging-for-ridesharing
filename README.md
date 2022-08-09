@@ -4,13 +4,19 @@
 ### The smallest heading
 
 **BOLD**
+
 _ltalic_
+
 ~~Strikethrough~~
+
 ***ALL bold and italic ***
+
 Not quote
+
 > This line is quote
 
 Quoting code:
+
 ```
 System.out.println("Hello World!");
 ```
@@ -19,6 +25,7 @@ fav color is `#0969DA`
 Example URL using [Github page] (https://pages.github.com/)
 
 List:
+
 -1
 -2
 -3

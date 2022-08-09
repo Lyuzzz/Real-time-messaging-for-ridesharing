@@ -20,7 +20,7 @@ Quoting code:
 ```
 System.out.println("Hello World!");
 ```
-fav color is `rgb(9, 105, 218)`
+fav color is `rgb(9, 105, 218)` .
 
 Example URL using [Github page] (https://pages.github.com/)
 
